@@ -1,2 +1,1 @@
-# spawned-snipers-message
-
+drop spawned-snipers-message-main in mods
