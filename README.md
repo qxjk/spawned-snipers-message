@@ -1,1 +1,1 @@
-drop sniper(-s)-incoming-in-chat-main in mods
+drop sniper-or-snipers-incoming-in-chat-main in mods
