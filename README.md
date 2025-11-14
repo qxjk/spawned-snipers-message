@@ -1,1 +1,1 @@
-drop spawned-snipers-message-main in mods
+drop sniper(-s)-incoming-in-chat-main in mods
