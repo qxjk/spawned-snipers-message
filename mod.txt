@@ -3,7 +3,7 @@
   "description": "",
   "author": "someone",
   "contact": "nope",
-  "version": "1",
+  "version": "1.0",
   "hooks": [
     {
       "hook_id": "lib/units/enemies/cop/copbase",
