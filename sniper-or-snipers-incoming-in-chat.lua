@@ -1,4 +1,4 @@
-SniperSpawnNotifier = SniperSpawnNotifier or { alive = 0, last_announce = -100, delay = 8, next_scan = 0 }
+SniperSpawnNotifier = SniperSpawnNotifier or { alive = 0, last_announce = -100, delay = 0.25, next_scan = 0 }
 local SSN = SniperSpawnNotifier
 
 local function msg(text)
