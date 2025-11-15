@@ -51,8 +51,6 @@ end
 
 if RequiredScript == "lib/units/enemies/cop/copbase" then
     Hooks:PostHook(CopBase, "post_init", "SniperSpawnNotifier_CopBasePostInit", function(self)
-        local s = game_state_machine and game_state_machine:current_state_name()
-        if not s or not s:find("ingame") then return end
         if alive(self._unit) and is_sniper(self) then
             reg(self._unit)
         end

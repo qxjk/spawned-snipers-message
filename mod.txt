@@ -13,5 +13,13 @@
       "hook_id": "lib/setups/gamesetup",
       "script_path": "sniper-or-snipers-incoming-in-chat.lua"
     }
+  ],
+  "updates": [
+    {
+      "identifier": "sniper_or_snipers_incoming_in_chat",
+      "host": {
+        "meta": "https://raw.githubusercontent.com/qxjk/sniper-or-snipers-incoming-in-chat/main/meta.json"
+      }
+    }
   ]
 }
