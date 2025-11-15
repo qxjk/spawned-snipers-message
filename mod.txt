@@ -1,6 +1,6 @@
 {
   "name": "sniper-or-snipers-incoming-in-chat",
-  "description": "",
+  "description": "useless",
   "author": "someone",
   "contact": "nope",
   "version": "1.0",
@@ -13,7 +13,7 @@
   ],
   "updates": [
     {
-      "identifier": "sniper_or_snipers_incoming_in_chat",
+      "identifier": "sniper-or-snipers-incoming-in-chat",
       "host": {
         "meta": "https://raw.githubusercontent.com/qxjk/sniper-or-snipers-incoming-in-chat/main/meta.json"
       }
